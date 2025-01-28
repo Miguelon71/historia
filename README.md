@@ -5,4 +5,4 @@ Hola mundo
 =======
 En el mercado de un pequeño pueblo, un anciano vendía objetos extraños. Entre ellos, un reloj de arena que parecía brillar desde dentro.
 >>>>>>> ca9df58bac0f791aba0d39e6f328a611d5e09f55
-En el mercado de un pequeño pueblo, un anciano vendía objetos extraños. Entre ellos, un reloj de arena que parecía brillar desde dentro.
+En el mercado de un pequeño pueblo, un anciano vendía objetos extraños. Entre ellos, un reloj de arena que parecía brillar desde dentro.—Este reloj no mide el tiempo, lo concede —dijo el anciano al joven Raúl, quien lo miraba con curiosidad.
